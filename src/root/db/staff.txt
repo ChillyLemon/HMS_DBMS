@@ -1,0 +1,3 @@
+ID      Name        Gender      DOB     CT_Num      BloodGroup
+120001  Chandan Others  12001   11/10/1999  9821143343  B-
+120002  ramu male  12001   11/10/1999  9821143343  B+

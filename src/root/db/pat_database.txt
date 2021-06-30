@@ -1,0 +1,3 @@
+ID      Time_of_registration        Name        Gender      DOB     CT_Num      BloodGroup      Department      Emergency
+11000	2020-11-05T15:44:13.977108	demo	Other	23/311/2235	235326436	O+	Emergency	YES
+11001	2020-11-05T16:52:50.443139	werqwe	Male	213124	q213	A-	ENT	YES

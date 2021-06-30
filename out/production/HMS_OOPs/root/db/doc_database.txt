@@ -1,0 +1,4 @@
+ID      Name        Gender      DOB     CT_Num      BloodGroup      Department
+EN1000	ghfjh	Female	dfasf	asdas	A+	ENT
+GE1001	doc	Male	this	214141	A-	GenSurgery
+DE1002	dr. arnab goswami	Male	01/01/01	9098782342	B+	Dermatology
